@@ -14,28 +14,16 @@
 
 ## 直播工具
 
-### 📺 Bili Live Danmaku
-
-B站透明弹幕 OBS 浮层，支持礼物、SC、历史、字体和 Edge TTS。
-
-[查看仓库](https://github.com/VincentZyuLive/bili-live-danmaku)
+| 项目 | 用途 |
+| --- | --- |
+| [Bili Live Danmaku](https://github.com/VincentZyuLive/bili-live-danmaku) | B站透明弹幕 OBS 浮层，支持礼物、SC、历史、字体和 Edge TTS |
+| [OBS Stage](https://github.com/VincentZyuLive/VincentZyu233-OBS-stage) | 水色雾蓝 OBS 舞台、开洞布局和 OBS WebSocket 管理 |
+| [go-musicfox fork](https://github.com/VincentZyuLive/go-musicfox-vincentzyu-fork) | VincentZyu 的 fork 版本，并增加 SPlayer-Next 兼容 HTTP/WS API |
 
 <p align="center">
   <img src="assets/bili-live-danmaku.png" width="320" alt="Bili Live Danmaku preview">
 </p>
 
-### 🌊 OBS Stage
-
-水色雾蓝 OBS 舞台、开洞布局和 OBS WebSocket 管理。
-
-[查看仓库](https://github.com/VincentZyuLive/VincentZyu233-OBS-stage)
-
 ![OBS Stage preview](assets/obs-stage.png)
-
-### 🦊 go-musicfox fork
-
-VincentZyu 的 fork 版本，并增加 SPlayer-Next 兼容 HTTP/WS API。
-
-[查看仓库](https://github.com/VincentZyuLive/go-musicfox-vincentzyu-fork)
 
 ![go-musicfox fork preview](assets/go-musicfox.png)
