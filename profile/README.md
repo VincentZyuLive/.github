@@ -5,7 +5,7 @@
 # VincentZyuLive
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-5861873-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://live.bilibili.com/5861873) [←](https://live.bilibili.com/5861873) <br>
-[![Live Environment](https://img.shields.io/badge/Live_Environment-GitHub_Pages-7FA8E8?style=for-the-badge&logo=githubpages&logoColor=white)](https://vincentzyulive.github.io/VincentZyu233-OBS-stage/) [←](https://vincentzyulive.github.io/VincentZyu233-OBS-stage/) <br>
+[![GH PAGE](https://img.shields.io/badge/GH_PAGE-%E7%8E%AF%E5%A2%83%E4%BB%8B%E7%BB%8D-7FA8E8?style=for-the-badge&logo=githubpages&logoColor=white)](https://vincentzyulive.github.io/VincentZyu233-OBS-stage/) [←](https://vincentzyulive.github.io/VincentZyu233-OBS-stage/) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-VincentZyuLive-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VincentZyuLive) [←](https://github.com/VincentZyuLive)
 
 > [!TIP]
