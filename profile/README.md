@@ -6,7 +6,7 @@
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-5861873-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://live.bilibili.com/5861873) [←](https://live.bilibili.com/5861873) <br>
 [![GH PAGE](https://img.shields.io/badge/GH_PAGE-%E7%8E%AF%E5%A2%83%E4%BB%8B%E7%BB%8D-7FA8E8?style=for-the-badge&logo=githubpages&logoColor=white)](https://vincentzyulive.github.io/VincentZyu233-OBS-stage/) [←](https://vincentzyulive.github.io/VincentZyu233-OBS-stage/) <br>
-[![GitHub](https://img.shields.io/badge/GitHub-VincentZyuLive-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VincentZyuLive) [←](https://github.com/VincentZyuLive)
+[![GH ORGANIZATION](https://img.shields.io/badge/GH_ORGANIZATION-%E4%BB%93%E5%BA%93%E9%9B%86%E5%90%88-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VincentZyuLive) [←](https://github.com/VincentZyuLive)
 
 > [!TIP]
 > 这里收录 VincentZyu 的直播相关工具。项目以自用为主，实验性居多，会围绕实际直播需求持续调整；
