@@ -16,10 +16,18 @@
 
 | 项目 | 用途 |
 | --- | --- |
+| [SPlayer Status HTML Overlay](https://github.com/VincentZyuLive/splayer-status-html-overlay-for-obs) | OBS 音乐播放器状态 HTML 浮层，展示封面、歌词与播放进度 |
+| [go-musicfox fork](https://github.com/VincentZyuLive/go-musicfox-vincentzyu-fork) | VincentZyu 的 fork 版本，并增加 SPlayer-Next 兼容 HTTP/WS API |
 | [Bili Live Danmaku](https://github.com/VincentZyuLive/bili-live-danmaku) | B站透明弹幕 OBS 浮层，支持礼物、SC、历史、字体和 Edge TTS |
 | [OBS Stage](https://github.com/VincentZyuLive/VincentZyu233-OBS-stage) | 水色雾蓝 OBS 舞台、开洞布局和 OBS WebSocket 管理 |
-| [go-musicfox fork](https://github.com/VincentZyuLive/go-musicfox-vincentzyu-fork) | VincentZyu 的 fork 版本，并增加 SPlayer-Next 兼容 HTTP/WS API |
-| [SPlayer Status HTML Overlay](https://github.com/VincentZyuLive/splayer-status-html-overlay-for-obs) | OBS 音乐播放器状态 HTML 浮层，展示封面、歌词与播放进度 |
+
+> ↓ SPlayer Status HTML Overlay：封面、歌词、进度条与播放控制浮层
+
+![SPlayer Status HTML Overlay preview](assets/splayer-status-html-overlay.png)
+
+> ↓ go-musicfox fork：SPlayer-Next 兼容接口与 OBS 播放状态浮层
+
+![go-musicfox fork preview](assets/go-musicfox.png)
 
 > ↓ Bili Live Danmaku：透明弹幕与礼物、SC 展示
 
@@ -30,11 +38,3 @@
 > ↓ OBS Stage：水色雾蓝舞台与半屏开洞布局
 
 ![OBS Stage preview](assets/obs-stage.png)
-
-> ↓ go-musicfox fork：SPlayer-Next 兼容接口与 OBS 播放状态浮层
-
-![go-musicfox fork preview](assets/go-musicfox.png)
-
-> ↓ SPlayer Status HTML Overlay：封面、歌词、进度条与播放控制浮层
-
-![SPlayer Status HTML Overlay preview](assets/splayer-status-html-overlay.png)
