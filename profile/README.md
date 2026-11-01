@@ -4,7 +4,7 @@
 
 # VincentZyuLive
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-%E6%88%BF%E9%97%B4%E5%8F%B75861873-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://live.bilibili.com/5861873) [←](https://live.bilibili.com/5861873) <br>
+[![Bilibili](https://img.shields.io/badge/Bilibili-%E6%88%BF%E9%97%B4%E5%8F%B75861873-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://live.bilibili.com/5861873) [← 点我跳转](https://live.bilibili.com/5861873) <br>
 [![GH PAGE](https://img.shields.io/badge/GH_PAGE-%E7%8E%AF%E5%A2%83%E4%BB%8B%E7%BB%8D-7FA8E8?style=for-the-badge&logo=githubpages&logoColor=white)](https://vincentzyulive.github.io/VincentZyu233-OBS-stage/) [←](https://vincentzyulive.github.io/VincentZyu233-OBS-stage/) <br>
 [![GH ORGANIZATION](https://img.shields.io/badge/GH_ORGANIZATION-%E4%BB%93%E5%BA%93%E9%9B%86%E5%90%88-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VincentZyuLive) [←](https://github.com/VincentZyuLive)
 
