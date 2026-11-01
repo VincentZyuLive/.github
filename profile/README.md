@@ -21,6 +21,8 @@
 | [Bili Live Danmaku](https://github.com/VincentZyuLive/bili-live-danmaku) | B站透明弹幕 OBS 浮层，支持礼物、SC、历史、字体和 Edge TTS |
 | [OBS Stage](https://github.com/VincentZyuLive/VincentZyu233-OBS-stage) | 水色雾蓝 OBS 舞台、开洞布局和 OBS WebSocket 管理 |
 
+## 效果预览
+
 > ↓ [SPlayer Status HTML Overlay](https://github.com/VincentZyuLive/splayer-status-html-overlay-for-obs)：封面、歌词、进度条与播放控制浮层
 
 ![SPlayer Status HTML Overlay preview](assets/splayer-status-html-overlay.png)
