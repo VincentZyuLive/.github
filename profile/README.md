@@ -12,16 +12,22 @@
 > 这里收录 VincentZyu 的直播环境、弹幕、舞台与音乐工具，项目以自用为主，实验性居多，会围绕实际直播需求持续调整；
 > 欢迎体验，也欢迎通过 Issue 或 PR 一起完善。
 
-## 直播工具
+## 直播工具与插件矩阵
 
-| 项目 | 用途 |
-| --- | --- |
-| [SPlayer Status HTML Overlay](https://github.com/VincentZyuLive/splayer-status-html-overlay-for-obs) | OBS 音乐播放器状态 HTML 浮层，展示封面、歌词与播放进度 |
-| [go-musicfox fork](https://github.com/VincentZyuLive/go-musicfox-vincentzyu-fork) | VincentZyu 的 fork 版本，并增加 SPlayer-Next 兼容 HTTP/WS API |
-| [Bili Live Danmaku](https://github.com/VincentZyuLive/bili-live-danmaku) | B站透明弹幕 OBS 浮层，支持礼物、SC、历史、字体和 Edge TTS |
-| [OBS Stage](https://github.com/VincentZyuLive/VincentZyu233-OBS-stage) | 水色雾蓝 OBS 舞台、开洞布局和 OBS WebSocket 管理 |
+| 项目 | 类型 | 用途 |
+| --- | --- | --- |
+| [Manim Motion OBS Transition](https://github.com/VincentZyuLive/obs-manim-like-motion) | OBS 插件 (C++20/HLSL) | 将 Manim 数学动画哲学与 GPU 实时线稿素描带入 OBS 的动力学转场插件 |
+| [Lazer WS Server Bridge](https://github.com/VincentZyuLive/lazer-plugin-ws-server-bridge) | Lua / WS 桥接插件 | 为 osu!lazer 谱面游玩状态提供实时数据同步与 WebSocket 桥接 |
+| [SPlayer Status HTML Overlay](https://github.com/VincentZyuLive/splayer-status-html-overlay-for-obs) | 网页浮层 | OBS 音乐播放器状态 HTML 浮层，展示封面、歌词与播放进度 |
+| [go-musicfox fork](https://github.com/VincentZyuLive/go-musicfox-vincentzyu-fork) | 播放器后端 | VincentZyu 的 fork 版本，并增加 SPlayer-Next 兼容 HTTP/WS API |
+| [Bili Live Danmaku](https://github.com/VincentZyuLive/bili-live-danmaku) | 网页浮层 | B站透明弹幕 OBS 浮层，支持礼物、SC、历史、字体和 Edge TTS |
+| [OBS Stage](https://github.com/VincentZyuLive/VincentZyu233-OBS-stage) | 舞台工程 | 水色雾蓝 OBS 舞台、开洞布局和 OBS WebSocket 管理 |
 
 ## 效果预览
+
+> ↓ [Manim Motion OBS Transition](https://github.com/VincentZyuLive/obs-manim-like-motion)：GPU 实时轮廓素描与连续手绘动力学转场动效
+
+![Manim Motion OBS Transition preview](assets/obs-manim-motion.gif)
 
 > ↓ [SPlayer Status HTML Overlay](https://github.com/VincentZyuLive/splayer-status-html-overlay-for-obs)：封面、歌词、进度条与播放控制浮层
 
