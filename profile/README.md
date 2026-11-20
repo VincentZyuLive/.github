@@ -27,7 +27,7 @@
 
 > ↓ [SPlayer Status HTML Overlay](https://github.com/VincentZyuLive/splayer-status-html-overlay-for-obs)：封面、歌词、进度条与播放控制浮层
 
-![SPlayer Status HTML Overlay preview](assets/splayer-status-html-overlay.png)
+![SPlayer Status HTML Overlay preview](assets/splayer-status-html-overlay.gif)
 
 > ↓ [go-musicfox fork](https://github.com/VincentZyuLive/go-musicfox-vincentzyu-fork)：SPlayer-Next 兼容接口与 OBS 播放状态浮层
 
